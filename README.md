@@ -122,15 +122,6 @@ Graduation project, graded **Excellent (A)**, and selected for the Graduation Pr
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=husseinAhmed10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinAhmed10&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
-<p align="center">
-  <i>Always happy to talk firmware, tooling, and hardware-software debugging. Feel free to reach out!</i>
+  <i>Always happy to talk firmware, software, and hardware-software debugging. Feel free to reach out!</i>
 </p>
