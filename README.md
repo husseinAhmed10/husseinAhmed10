@@ -1,107 +1,136 @@
-# HusseinAhmed
+<h1 align="center">Hi, I'm Hussein Ahmed 👋</h1>
 
-<!--### Hi there 👋 __>
+<h3 align="center">Embedded Software Engineer · Firmware · Testing · Embedded Linux</h3>
 
-<!--
-**husseinAhmed10/HusseinAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
- Hey There 👋
-
-
-I am Communication and Computer Engineering Fresh Graduate and my passion is Software Developement and Embedded Systems.
-
-<br>
-
-
-
-### <ins> <b>My Social Links <b>:</ins>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/hussein-ahmed-0843b91b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/husseinahmed10">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100027406513870">
-    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=FaceBook&logoColor=white%22%20alt=%22FaceBook%20Badge"/>
+  <a href="mailto:hussein.ahmed2110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+  <a href="https://github.com/husseinAhmed10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br>
+<p align="center">📍 Cairo, Egypt</p>
 
+---
 
-### <ins> <b> My Contacts <b>:</ins><br/>
+## 👨‍💻 About Me
 
-📫 - You can reach me through this mail: hussein.ibrahim99@eng-st.cu.edu.eg
+I'm a Communications & Computer Engineering graduate (Cairo University, 2023) with **2+ years of experience** building embedded firmware, hardware systems, and GUI applications, from device-level firmware through integration testing and hardware/software debugging.
 
-<br>
+I enjoy solving hard hardware-software problems and taking practical ideas from **prototype to production**.
 
+- 🔧 Currently: working on embedded software engineering
+- 🧪 Focus: embedded firmware and desktop software applications
+- 🐧 Exploring: Embedded Linux (Yocto, Buildroot, U-Boot), Model-Based Development, AI for business
+- 💬 Ask me about: embedded C/C++, RTOS, UART/SPI/I2C, Qt framework, debugging with logic analyzers & scopes
 
-### <ins> <b>Technologies I work with <b>:</ins>
+---
 
-### Programming
+## 🛠️ What I Do
 
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
-<img src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;  
-<img src="https://thumbs.dreamstime.com/z/object-oriented-programming-icon-trendy-object-oriented-program-object-oriented-programming-icon-trendy-object-oriented-131195706.jpg?w=768" title="OOP" alt="OOP" width="40" height="40"/>&nbsp;  
-</div>
+| Area | Details |
+|------|---------|
+| **Firmware** | Device drivers, firmware, GPRS modem integration |
+| **Software Applications** | Qt/C++ desktop GUIs and communicating with embedded devices over UART, SPI, I2C |
+| **Embedded Linux** | Custom distros with Yocto/OpenEmbedded, Buildroot, U-Boot, kernel & device tree |
+| **Automotive** | RTOS multitasking, UDS diagnostics, ADAS-style auto-parking, ISO 26262 fundamentals |
+| **Quality** | Unit/integration/system testing, HW/SW integration testing, MISRA-C |
 
-### Embedded Systems
+---
 
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/embeddedc/embeddedc-original-wordmark.svg"  title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
-<img src="https://digitalgateamg.com/wp-content/uploads/2021/12/4.RTOS_BSP_digitalgate.png"  title="RTOS" alt="RTOS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/assembly_avr_icon_132579.png"  title="AVR" alt="AVR" width="40" height="40"/>&nbsp;
-<img src="https://w7.pngwing.com/pngs/226/137/png-transparent-arm-cortex-a35-arm-architecture-arm-cortex-m-arm-cortex-a75-processor-miscellaneous-electronics-logo-thumbnail.png"  title="ARM" alt="ARM" width="40" height="40"/>&nbsp;
-</div>
+## 🧰 Tech Stack
 
-### Tools
+**Languages**
 
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/95248176?s=200&v=4"  title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
-</div>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Web Developer (FrontEnd / BackEnd / FullStack)
+**Embedded & Firmware**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg"  title="react" alt="Eclipse" width="90" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-AVR?style=for-the-badge&color=blue)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-RTOS?style=for-the-badge&color=orange)
+![Yocto](https://img.shields.io/badge/Yocto-Yocto?style=for-the-badge&color=darkgreen)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**Protocols**
 
+`UART` `SPI` `I2C` `CAN` `LIN` `USB` `TCP/IP` `BLE`
 
-### Scripting
+**Tools & Frameworks**
 
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
-</div>
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
+**Debugging & Lab**
 
-### HDL
+`Logic Analyzer` `Oscilloscope` `QEMU` `NI LabVIEW` `IAR` `Code Composer Studio`
 
-![](https://img.shields.io/badge/Hardware-Verilog-informational?style=flat&logo=verilog&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Hardware-VHDL-informational?style=flat&logo=verilog&logoColor=white&color=blue)
+---
 
-### Operating Systems
+## 🚀 Featured Projects
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="90" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+### 🐧 Custom Embedded Linux Distribution
+Built a custom Linux distribution using Yocto/OpenEmbedded, including image customization.
+`Yocto` `OpenEmbedded` `Embedded Linux`
 
+### 🚗 Auto-Parking System with ADAS Features
+Developed during the NTI Automotive Embedded Software program using a Tiva C microcontroller and RTOS, with multitasking and real-time control.
+`C` `RTOS` `Tiva C` `Automotive`
 
+### 🩺 UDS Automotive Diagnostics
+UDS communication project implementing diagnostics over UART.
+`Embedded C` `UDS` `UART`
 
+### 🔥 Smart Fire System
+Embedded system for fire detection and response.
+`Embedded C` `Sensors` `Microcontrollers`
+
+### 🤖 Automated Delivery Robot for Smart B2C Drive-In Services
+Graduation project, graded **Excellent (A)**, and selected for the Graduation Projects Excellence Competition (2023).
+`Robotics` `Embedded Systems`
+
+### 🎮 Software Projects
+- **Monopoly Game**: C++ and OOP
+- **Restaurant Simulation**: C++
+- **Cinephile App**: C# and MySQL
+- **Logic Simulator**: C++ with design patterns and UML
+
+---
+
+## 🏁 Previous Experience, Activities & Certification
+
+- Teaching Assistant at Cairo University: Embedded Systems, C++/OOP, and Communication Engineering courses (2023 – 2024)
+- Automotive Embedded Software Trainee at NTI (2023)
+- Formula Student UK 2022, CURT Racing Team
+- IEEE CUSB, Robotics & Embedded Systems Committee
+- Certification: Elements of AI for Business, University of Helsinki, supported by Google.org (Oct 2025)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=husseinAhmed10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinAhmed10&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always happy to talk firmware, tooling, and hardware-software debugging. Feel free to reach out!</i>
+</p>
